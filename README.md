@@ -36,10 +36,10 @@ In this project, I have learned
 3. **Model the data:** facts and dimensions, ready for reports.
 4. **Analyze it:** answer business questions with SQL.
 
-### Objective
+### 🎯 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-### BI: Analytics & Reporting (Data Analysis)
+### 📊 BI: Analytics & Reporting (Data Analysis)
 
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
