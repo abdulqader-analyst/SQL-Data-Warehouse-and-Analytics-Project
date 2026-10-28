@@ -29,16 +29,14 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 ## 📖 Project Overview
 
-In this project, you:
+In this project, I have learned 
 
-1. **Design the architecture:** a modern data warehouse with three layers, bronze, silver and gold.
+1. **Design the architecture:** a modern data warehouse with three layers: bronze, silver and gold.
 2. **Build the ETL pipelines:** load the source files and move the data through the layers.
 3. **Model the data:** facts and dimensions, ready for reports.
 4. **Analyze it:** answer business questions with SQL.
 
----
-
-#### Objective
+### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ### BI: Analytics & Reporting (Data Analysis)
